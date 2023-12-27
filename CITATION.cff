@@ -1,0 +1,11 @@
+Shahzaib Khan, Faisal Hossain, Tamlin Pavelsky, Angelica Gomez, Sheikh Ghafoor, Megan Lane, Grant Parkins, Sanchit Minocha, Md Arifuzzaman Bhuyan, Tariq Abdullah Al Fayyaz, Md Nazmul Haque, Preetom Kumar Sarker, Partho Protim Borua,
+A network design approach for citizen science-satellite monitoring of surface water volume changes in Bangladesh,
+Environmental Modelling & Software,
+Volume 172,
+2024,
+105919,
+ISSN 1364-8152,
+https://doi.org/10.1016/j.envsoft.2023.105919.
+(https://www.sciencedirect.com/science/article/pii/S1364815223003055)
+Abstract: This study introduces a reproducible and integrated framework for gauge network design for tracking surface water availability in a citizen science framework. For identifying the optimal number and location of gauges, the framework uses Monte Carlo simulations. With randomized selection of gauges from an existing high-density network, the framework does not impose a single optimal solution but rather provides a range of optimal solutions, allowing water managers the freedom to select the number of gauges and locations in accordance with their specific needs. Using the methodology, the study revealed how a strategic placement of gauges can potentially improve the estimation of surface water storage variations. The study findings can be used to enhance the assessment of lake products derived from missions such as the Surface Water and Ocean Topography (SWOT).
+Keywords: Surface water; Network design; Gauge placement; Remote sensing; SWOT
